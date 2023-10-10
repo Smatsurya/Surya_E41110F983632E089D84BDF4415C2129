@@ -16,7 +16,7 @@ def sort_students(student_list):
 
 
 students = [
-    Student("Sanjay", "A123", 7.8),
+    Student("Surya", "A123", 7.8),
     Student("Yuvaraj", "A124", 9.2),
     Student("Nandhini", "A125", 9.1),
     Student("Vennila", "A126", 8.3),
